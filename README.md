@@ -1,12 +1,12 @@
 # Flipkart Product Search Automation – Selenium Java
 
-## 📌 Project Overview
+## Project Overview
 This project automates a basic e-commerce workflow on Flipkart using Selenium WebDriver with Java.  
 The objective is to demonstrate handling of dynamic elements, browser navigation, waits, and screenshot capture as part of a skill assessment.
 
 ---
 
-## 🎯 Automated Scenario
+## Automated Scenario
 The automation performs the following steps:
 
 1. Launch Flipkart homepage
@@ -19,7 +19,7 @@ The automation performs the following steps:
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 - **Language:** Java
 - **Automation Tool:** Selenium WebDriver
 - **Browser:** Google Chrome
@@ -29,7 +29,7 @@ The automation performs the following steps:
 ---
 
 
-## ▶️ How to Run the Test
+## How to Run the Test
 
 ### Prerequisites
 - Java JDK installed
