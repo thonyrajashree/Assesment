@@ -28,15 +28,6 @@ The automation performs the following steps:
 
 ---
 
-## 📂 Project Structure
-Assessment_Amazon
-│── src/main/java
-│ └── pages
-│ └── FlipkartSearchTest.java
-│── pom.xml
-│── FlipkartProductPage.png
-
----
 
 ## ▶️ How to Run the Test
 
