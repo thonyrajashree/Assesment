@@ -4,7 +4,6 @@
 This project automates a basic e-commerce workflow on Flipkart using Selenium WebDriver with Java.  
 The objective is to demonstrate handling of dynamic elements, browser navigation, waits, and screenshot capture as part of a skill assessment.
 
----
 
 ## Automated Scenario
 The automation performs the following steps:
@@ -17,7 +16,6 @@ The automation performs the following steps:
 6. Validate Product Details Page by checking the presence of the **Add to Cart** button
 7. Capture a screenshot of the Product Details Page
 
----
 
 ##  Tech Stack
 - **Language:** Java
@@ -26,7 +24,6 @@ The automation performs the following steps:
 - **Wait Strategy:** Explicit Wait (WebDriverWait)
 - **Build Tool:** Maven
 
----
 
 
 ## How to Run the Test
